@@ -27,4 +27,18 @@
 
 > `termux-setup-storage`
 
+##
+
 ### Installation
+```
+$ apt install git
+$ apt install python
+$ git clone https://github.com/Cyberi53/T-bpi
+$ cd T-bpi
+$ ls
+$ chmod +x *
+$ ls
+$ python T-bpi.py
+```
+
+### A
