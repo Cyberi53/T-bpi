@@ -1,7 +1,7 @@
 <!-- T-bpi -->
 
 <p align="center">
- <img src=".imgs/png">
+ <img src=".imgs/logo.png">
 </p>
 
 
