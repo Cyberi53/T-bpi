@@ -40,5 +40,6 @@ $ chmod +x *
 $ ls
 $ python T-bpi.py
 ```
+> It depends on your data connection. and it takes much longer to install.
 
 ### A
