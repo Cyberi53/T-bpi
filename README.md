@@ -10,3 +10,21 @@
 ##
 
 ### Features
+- python
+- python2
+- python3
+- python-dev
+- php
+- java
+- git
+- perl
+- bash
+- nano
+- curl
+> `openssl` `openssh` `wget` `clang`
+
+> `nmap` `w3m` `hydra` `ruby` `macchanger` `host` `dnsutils` `coreutils`
+
+> `termux-setup-storage`
+
+### Installation
