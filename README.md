@@ -45,8 +45,8 @@ $ python T-bpi.py
 ### Dependencies
 
 **`T-bpi`** requires following programs to run properly - 
-- `pkg install python`
-- `pkg install git`
+- `apt install git`
+- `apt install python`
 
 > All the dependencies will be installed automatically when you run `T-bpi` for the first time.
 
