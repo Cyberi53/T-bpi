@@ -69,7 +69,8 @@ $ python T-bpi.py
 
 ##
 
-### Disclaimer : This Python tool are completely free! Not intended for sale.
+### Disclaimer :
+<p>This Python tool are completely free! Not intended for sale. Thanks!!</p>
 
 ##
 
