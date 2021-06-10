@@ -42,4 +42,57 @@ $ python T-bpi.py
 ```
 > It depends on your data connection. and it takes much longer to install.
 
-### A
+### Dependencies
+
+**`T-bpi`** requires following programs to run properly - 
+- `pkg install python`
+- `pkg install git`
+
+> All the dependencies will be installed automatically when you run `T-bpi` for the first time.
+
+### Required Commands
+- rm -rf (uninstall tools name)
+
+> More Commands via `github: https://github.com/Cyberi53/tmklCommands`
+
+### Supported Platform
+**`Termux`**
+
+##
+
+<h3 align="center">
+:: How it works! ::
+</h3>
+<p align="center">
+<img src=".imgs/wf.gif"/>
+</p>
+
+##
+
+### Disclaimer :
+
+##
+
+### Special Thanks :
+
+- [**AWWB**](https://facebook.com/awwbFoundation)
+- [**jk -iTGuru**](https://github.com/jk-iTGuru)
+- [**jkTECHDoctor**](https://github.com/jkTECHDoctor)
+- [**Abdullah**](#)
+- [**Emamul**](#)
+- [**Freelancer Mustakin**](https://github.com/freelancermustakin)
+
+##
+
+### Donate!
+> Donate a little money for helpless oppressed Muslims. The money you donate will only be used for Islam, InshaAllah.
+- awwbFoundation (Donation)
+  - `bKash: +8801944799794`
+  - `Rocket: +8801944799794`
+  - `Telegram: @contactAWWBfoundation`
+
+> Or talk to Freelancer Mustakin, the founder of Cyber ​​I53. `via fb: www.facebook.com/freelancermustakin`
+
+##
+
+### Thanks
