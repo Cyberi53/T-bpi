@@ -95,4 +95,8 @@ $ python T-bpi.py
 
 ##
 
-### Thanks
+### Follow @Cyberi53
+<a href="https://github.com/Cyberi53"><img align="left" title="Github" alt="Github" width="30px" src=".assets/github.png" /></a>
+<a href="https://facebook.com/Cyberi53"><img align="left" title="Facebook" alt="Facebook" width="30px" src=".assets/facebook.png" /></a>
+<a href="https://t.me/Cyber_i53"><img align="left" title="Telegram" alt="Telegram" width="30px" src=".assets/telegram.png" /></a>
+<a href="https://m.youtube.com/channel/UCoAUatLl3PQB-buaTMn8YJw"><img align="left" title="YouTube" alt="YouTube" width="30px" src=".assets/YouTube.png" /></a>
